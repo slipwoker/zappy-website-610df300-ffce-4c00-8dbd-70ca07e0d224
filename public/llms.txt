@@ -1,45 +1,35 @@
-# Tape Reader — Generative Engine Optimization Map
-
-> Tape Reader is a pre-launch trading intelligence platform that quantifies the actionability of financial news through a proprietary Signal Score (0–100), breaking each headline into four sub-metrics: Velocity, Magnitude, Decay, and Confidence. The brand identity is unapologetically technical and trader-native — think Bloomberg Terminal density fused with Linear.app's clean precision — targeting sophisticated market participants who speak in catalysts, flow, IV, and edge. The aesthetic is dark, confident, and data-driven with zero finance clichés; the animated Live Tape hero mock and Signal Score card are the centrepiece visuals, reinforcing the platform's core promise: cutting noise, surfacing signal.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### Home
-https://tape-reader-610df300.zappy5.app
+https://example.com
 Tape Reader scores every financial headline 0–100 so you trade catalysts, not chaos. The smarter alternative to Edgewonk trading journal workflows. Join the waitlist.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://tape-reader-610df300.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://tape-reader-610df300.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://tape-reader-610df300.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Tape Reader
-Tape Reader is a pre-launch trading intelligence platform that quantifies the actionability of financial news through a proprietary Signal Score (0–100), breaking each headline into four sub-metrics: Velocity, Magnitude, Decay, and Confidence. The brand identity is unapologetically technical and trader-native — think Bloomberg Terminal density fused with Linear.app's clean precision — targeting sophisticated market participants who speak in catalysts, flow, IV, and edge. The aesthetic is dark, confident, and data-driven with zero finance clichés; the animated Live Tape hero mock and Signal Score card are the centrepiece visuals, reinforcing the platform's core promise: cutting noise, surfacing signal.
-
-## Target Audience
-sophisticated traders and market participants who are already experienced
-
-## Industry
-financial technology / trading
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://tape-reader-610df300.zappy5.app/sitemap.xml
-- **Robots.txt**: https://tape-reader-610df300.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
