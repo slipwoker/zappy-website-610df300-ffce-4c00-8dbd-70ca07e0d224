@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tape-reader-610df300.zappy5.app/sitemap.xml
